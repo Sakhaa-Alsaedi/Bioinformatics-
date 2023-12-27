@@ -1,6 +1,7 @@
 # Bioinformatics
 
-![1569966126](https://github.com/Sakhaa-Alsaedi/Introduction_to_bioinformatics/assets/42935314/45853a53-ed51-41b9-a7a7-c52fc352fe42)
+![dna-sequencing](https://github.com/galaxyproject/usegalaxy-tools/assets/42935314/6ba37898-31a2-4a1a-855f-ee23b0015dae)
+
 # Fundamental of Bioinformatics
  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" /></a>
  
@@ -54,8 +55,7 @@ Welcome to the Bioinformatics Fundamentals Repository! This repository contains 
 
 |Tutorial| Link | Time| 
 |:---: | :---:  |     :---:      | 
-|Part 1| [General introduction](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/general-introduction/tutorial.html)
-| 30 min|
+|Part 1| [General introduction](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/general-introduction/tutorial.html)| 30 min|
 |Part 2| [Debruijn graph assembly](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/debruijn-graph-assembly/slides-plain.html)| 2 h|
 |Part 3| [Assembly withpreprocessing](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/assembly-with-preprocessing/tutorial.html)| 4 h|
 
@@ -66,16 +66,7 @@ ning the code in this repository. You do not need to install any additional pack
 
 ## Useful resources 
 - [A gentle introduction to RNA-seq](https://www.youtube.com/watch?app=desktop&v=tlf6wYJrwKY)
-- [Principal Component Analysis (PCA), Step-by-Step](https://www.youtube.com/watch?v=FgakZw6K1QQ)
-- [UMAP Dimension Reduction](https://www.youtube.com/watch?v=eN0wFzBA4Sc&t=790s)
-- [t-SNE, Clearly Explained](https://www.youtube.com/watch?v=NEaUSP4YerM&list=RDCMUCtYLUTtgS3k1Fg4y5tAhLbw&index=2)
-- [PyMol software for Protein visualization](https://pymol.org/2/)
-- [STRING database for protection Interaction Analysis](https://string-db.org/)
-- [What is a protein?](https://www.youtube.com/watch?v=wvTv8TqWC48)
-- [Population and Estimated Parameters](https://www.youtube.com/watch?v=vikkiwjQqfU)
-- [Using Linear Models for t-tests and ANOVA](https://www.youtube.com/watch?v=NF5_btOaCig)
-- [What is p-values?](https://www.youtube.com/watch?v=vemZtEM63GY)
-- [Fisher's Exact Test and the Hypergeometric Distribution](https://www.youtube.com/watch?v=udyAvvaMjfM)
+- [Galaxy tool](https://github.com/galaxyproject/usegalaxy-tools)
 
 ## :books: Recommend Books 
 - [Principles of Population Genetics 4th Edition](https://www.scribd.com/document/327383907/Principles-Population-Genetics)
@@ -88,6 +79,5 @@ ning the code in this repository. You do not need to install any additional pack
 ## Need help?
 You can find us in Discord or by Email:
 
-- @saraalthubaiti_80053, sara.althubaiti@kaust.edu.sa
 - @sakhaa_17127, sakhaa.alsaedi@kaust.edu.sa
 
