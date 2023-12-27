@@ -1,8 +1,11 @@
-# Bioinformatics
+# KAUST Academy - Bioinformatics Program
 
 ![dna-sequencing](https://github.com/galaxyproject/usegalaxy-tools/assets/42935314/6ba37898-31a2-4a1a-855f-ee23b0015dae)
 
-# Fundamental of Bioinformatics
+# Stage 2: Introduction to Bioinformatics
+** Bioinformatics program description:** Top qualified students will delve deeper into the world of Bioinformatics, and learn the skills and tools to apply this newfound knowledge in their fields.
+
+
  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" /></a>
  
 Welcome to the Bioinformatics Fundamentals Repository! This repository contains various tutorials in Python and R to help you learn the basics of bioinformatics.
