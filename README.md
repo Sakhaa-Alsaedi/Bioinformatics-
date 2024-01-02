@@ -33,7 +33,7 @@ Welcome to the Bioinformatics Fundamentals Repository! This repository contains 
 
 |Tutorial| Link | Time| 
 |:---: | :---:  |     :---:      | 
-|Part 1| [DIP](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/dip/tutorial.htm)| 3 h|
+|Part 1| [DIP](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/dip/tutorial.html)| 3 h|
 |Part 2| [Mapping-by-sequencing](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/mapping-by-sequencing/tutorial.html)| 2 h|
 
 
