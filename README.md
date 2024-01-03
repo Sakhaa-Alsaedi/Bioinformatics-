@@ -79,7 +79,8 @@ ning the code in this repository. You do not need to install any additional pack
 
 ## Useful videos
 - [The central dogma](https://www.youtube.com/watch?v=gG7uCskUOrA&t=1s)
-  
+- [GalaxyProject](https://www.youtube.com/@GalaxyProject/videos)
+- 
 ## Need help?
 You can find us in Discord or by Email:
 
