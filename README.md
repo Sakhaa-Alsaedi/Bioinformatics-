@@ -51,7 +51,7 @@ Welcome to the Bioinformatics Fundamentals Repository! This repository contains 
 |:---: | :---:  |     :---:      | 
 |Part 1| [General introduction](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/general-introduction/tutorial.html)| 30 min|
 |Part 2| [Debruijn graph assembly](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/debruijn-graph-assembly/slides-plain.html)| 2 h|
-|Part 3| [Assembly withpreprocessing](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/assembly-with-preprocessing/tutorial.html)| 4 h|
+|Part 3| [Assembly with preprocessing](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/assembly-with-preprocessing/tutorial.html)| 4 h|
 
 ## Day 5: Transcriptomics
 
