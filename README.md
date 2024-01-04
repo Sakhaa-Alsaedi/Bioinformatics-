@@ -26,7 +26,7 @@ Welcome to the Bioinformatics Fundamentals Repository! This repository contains 
 |:---: | :---:  |     :---:      | 
 |Part 1| [Introduction of galaxy platform ](https://training.galaxyproject.org/training-material/topics/introduction/tutorials/galaxy-intro-peaks2genes/tutorial.html)| 3 h|
 |Part 2| [Quality-control](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html)| 1.5 h|
-|Part 3| [Mapping](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/mapping/tutorial.html) | 1 h|
+|Part 3| [Reference mapping](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/mapping/tutorial.html) | 1 h|
 
 
 ## Day 2: Variant analysis
