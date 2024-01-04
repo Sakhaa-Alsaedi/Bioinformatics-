@@ -20,7 +20,7 @@ Welcome to the Bioinformatics Fundamentals Repository! This repository contains 
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
 
-## Day 1: Learning about galaxy, basic sequence analysis
+## Day 1: Basic sequence analysis
 
 |Tutorial| Link | Time| 
 |:---: | :---:  |     :---:      | 
@@ -29,7 +29,7 @@ Welcome to the Bioinformatics Fundamentals Repository! This repository contains 
 |Part 3| [Mapping](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/mapping/tutorial.html) | 1 h|
 
 
-## Day 2: Variant analysis*
+## Day 2: Variant analysis
 
 |Tutorial| Link | Time| 
 |:---: | :---:  |     :---:      | 
@@ -45,8 +45,15 @@ Welcome to the Bioinformatics Fundamentals Repository! This repository contains 
 |Part 1| [Exome sequencing](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/exome-seq/tutorial.html)| 5 h|
 |Part 2| [Trio analysis](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/trio-analysis/tutorial.html)| 2 h|
 
+## Day 4: Genome Assembly
 
-## Day 4: Transcriptomics
+|Tutorial| Link | Time| 
+|:---: | :---:  |     :---:      | 
+|Part 1| [General introduction](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/general-introduction/tutorial.html)| 30 min|
+|Part 2| [Debruijn graph assembly](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/debruijn-graph-assembly/slides-plain.html)| 2 h|
+|Part 3| [Assembly withpreprocessing](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/assembly-with-preprocessing/tutorial.html)| 4 h|
+
+## Day 5: Transcriptomics
 
 |Tutorial| Link | Time| 
 |:---: | :---:  |     :---:      | 
@@ -54,14 +61,6 @@ Welcome to the Bioinformatics Fundamentals Repository! This repository contains 
 |Part 2| [RNA-seq reads to counts](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/rna-seq-reads-to-counts/tutorial.html)| 3 h|
 |Part 3| [RNA-seq counts to genes](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/rna-seq-counts-to-genes/tutorial.html)| 2 h|
 |Part 4| [RNA-seq genes to pathways](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/rna-seq-genes-to-pathways/tutorial.html)| 2 h|
-
-## Day 5: Genome Assembly
-
-|Tutorial| Link | Time| 
-|:---: | :---:  |     :---:      | 
-|Part 1| [General introduction](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/general-introduction/tutorial.html)| 30 min|
-|Part 2| [Debruijn graph assembly](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/debruijn-graph-assembly/slides-plain.html)| 2 h|
-|Part 3| [Assembly withpreprocessing](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/assembly-with-preprocessing/tutorial.html)| 4 h|
 
 
 ## Dependencies
