@@ -31,8 +31,8 @@ Welcome to the Bioinformatics Fundamentals Repository! This repository contains 
 
 ## Day 2: Variant analysis
 
-||Tutorial| Link | Slides| Records | 
-|:---: | :---:  |     :---:      | :---:|
+||Tutorial| Link | Slides| 
+|:---: | :---:  |     :---:      | 
 |Part 1| [Variant calling](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/dip/tutorial.html)| 3 h|
 |Part 2| [Mapping-by-sequencing](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/mapping-by-sequencing/tutorial.html)| 2 h|
 
