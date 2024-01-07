@@ -22,11 +22,11 @@ Welcome to the Bioinformatics Fundamentals Repository! This repository contains 
 
 ## Day 1: Basic sequence analysis
 
-|Tutorial| Link | Time| 
-|:---: | :---:  |     :---:      | 
-|Part 1| [Introduction of galaxy platform ](https://training.galaxyproject.org/training-material/topics/introduction/tutorials/galaxy-intro-peaks2genes/tutorial.html)| 3 h|
-|Part 2| [Quality-control](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html)| 1.5 h|
-|Part 3| [Reference mapping](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/mapping/tutorial.html) | 1 h|
+|Tutorial| Link | Slides| Records |
+|:---: | :---:  |     :---:      | :---:|
+|Part 1| [Introduction of galaxy platform ](https://training.galaxyproject.org/training-material/topics/introduction/tutorials/galaxy-intro-peaks2genes/tutorial.html)||
+|Part 2| [Quality control](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html)| [QC](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/quality-control/slides.html#1)| [Galaxy](https://www.youtube.com/watch?v=QJRlX2hWDKM)
+|Part 3| [Reference mapping](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/mapping/tutorial.html) |[Mapping](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/mapping/slides.html#1)| [Galaxy](https://www.youtube.com/watch?v=1wm-62E2NkY&t=1s)|
 
 
 ## Day 2: Variant analysis
