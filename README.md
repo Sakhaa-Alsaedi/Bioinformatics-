@@ -22,6 +22,8 @@ Welcome to the Bioinformatics Fundamentals Repository! This repository contains 
 
 ## Day 1: Basic sequence analysis
 
+[Lecture 1: Theoretical slides](https://github.com/Sakhaa-Alsaedi/Bioinformatics-/blob/main/%20Day1_GH_Introduction%20to%20Bioinformatics_Sakhaa.pdf)
+
 |Tutorial| Link | Slides| Records |
 |:---: | :---:  |     :---:      | :---:|
 |Part 1| [Introduction of galaxy platform ](https://training.galaxyproject.org/training-material/topics/introduction/tutorials/galaxy-intro-peaks2genes/tutorial.html)|[Your First Galaxy Analysis](https://docs.google.com/presentation/d/1rOGp4o_Dc-QIHS4YT4HizdfXTVhJB1HwPPZkSDuMhig/edit#slide=id.gbc9627d000_0_346)| [Alternative record](https://www.youtube.com/watch?v=1UPCrQxGwcU&list=PLNFLKDpdM3B_3M7i8fQ3rH_sax6rmAsyz)|
@@ -31,10 +33,10 @@ Welcome to the Bioinformatics Fundamentals Repository! This repository contains 
 
 ## Day 2: Variant analysis
 
-||Tutorial| Link | Slides| 
-|:---: | :---:  |     :---:      | 
-|Part 1| [Variant calling](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/dip/tutorial.html)| 3 h|
-|Part 2| [Mapping-by-sequencing](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/mapping-by-sequencing/tutorial.html)| 2 h|
+|Tutorial| Link | Slides| Records |
+|:---: | :---:  |     :---:      | :---:|
+|Part 1| [Variant calling](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/dip/tutorial.html)|[VC]|[Galaxy]|
+|Part 2| [Mapping-by-sequencing](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/mapping-by-sequencing/tutorial.html)|[VC]|[Galaxy]|
 
 
 ## Day 3: Diagnosing human genetic disease 
