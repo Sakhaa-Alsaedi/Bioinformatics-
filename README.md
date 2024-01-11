@@ -46,8 +46,8 @@ Welcome to the Bioinformatics Fundamentals Repository! This repository contains 
 
 |Tutorial| Link | Slides| Records |
 |:---: | :---:  |     :---:      | :---:|
-|Part 1| [Exome sequencing](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/exome-seq/tutorial.html)| [Galaxy slides](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/introduction/slides.html#1)|
-|Part 2| [Trio analysis](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/trio-analysis/tutorial.html)| [Galaxy slides]| [Galaxy](https://www.youtube.com/watch?v=3OWXWOkJRqU)
+|Part 1| [Exome sequencing](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/exome-seq/tutorial.html)| [Galaxy slides](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/introduction/slides.html#1)|[Alternative record](https://www.youtube.com/watch?v=lpzBwR1P0h0)|
+|Part 2| [Trio analysis](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/trio-analysis/tutorial.html)| NA| [Galaxy](https://www.youtube.com/watch?v=3OWXWOkJRqU)|
 
 ## Day 4: Genome Assembly
 
