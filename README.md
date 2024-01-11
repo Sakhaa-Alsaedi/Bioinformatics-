@@ -32,7 +32,7 @@ Welcome to the Bioinformatics Fundamentals Repository! This repository contains 
 
 
 ## Day 2: Variant analysis
-[Lecture 2: Theoretical slides](https://github.com/Sakhaa-Alsaedi/Bioinformatics-/blob/main/%20Day1_GH_Introduction%20to%20Bioinformatics_Sakhaa.pdf)
+[Lecture 2: Theoretical slides](https://github.com/Sakhaa-Alsaedi/Bioinformatics-/blob/main/Day2_VC.pdf)
 
 |Tutorial| Link | Slides| Records |
 |:---: | :---:  |     :---:      | :---:|
@@ -57,14 +57,14 @@ Welcome to the Bioinformatics Fundamentals Repository! This repository contains 
 |Part 2| [Debruijn graph assembly](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/debruijn-graph-assembly/slides-plain.html)| 2 h|
 |Part 3| [Assembly with preprocessing](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/assembly-with-preprocessing/tutorial.html)| 4 h|
 
-## Day 5: Transcriptomics
+## Day 5: Transcriptomics 
 
 |Tutorial| Link | Time| 
 |:---: | :---:  |     :---:      | 
-|Part 1| [Introduction of Transcriptomics ](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/introduction/slides.html#1)| 30 min|
-|Part 2| [RNA-seq reads to counts](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/rna-seq-reads-to-counts/tutorial.html)| 3 h|
-|Part 3| [RNA-seq counts to genes](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/rna-seq-counts-to-genes/tutorial.html)| 2 h|
-|Part 4| [RNA-seq genes to pathways](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/rna-seq-genes-to-pathways/tutorial.html)| 2 h|
+|Part 1| [Introduction of Transcriptomics ](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/introduction/slides.html#1)| |
+|Part 2| [RNA-seq reads to counts](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/rna-seq-reads-to-counts/tutorial.html)| |
+|Part 3| [RNA-seq counts to genes](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/rna-seq-counts-to-genes/tutorial.html)| |
+|Part 4| [RNA-seq genes to pathways](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/rna-seq-genes-to-pathways/tutorial.html)| |
 
 
 ## Dependencies
