@@ -66,10 +66,13 @@ Welcome to the Bioinformatics Fundamentals Repository! This repository contains 
 |Part 3| [RNA-seq counts to genes](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/rna-seq-counts-to-genes/tutorial.html)| |
 |Part 4| [RNA-seq genes to pathways](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/rna-seq-genes-to-pathways/tutorial.html)| |
 
-
-## Dependencies
-[Google Colab](https://colab.research.google.com) provides all the necessary dependencies for run![image](https://github.com/Sakhaa-Alsaedi/Bioinformatics-/assets/42935314/65e35618-1cc1-4e36-a937-03094b41938b)
-ning the code in this repository. You do not need to install any additional packages.
+## Recommend tutorials 
+|Tutorial | Implementation| 
+|:---: |     :---:      | 
+[NGS data logistics](https://training.galaxyproject.org/training-material/topics/introduction/tutorials/galaxy-intro-ngs-data-managment/tutorial.html)| [Video](https://www.youtube.com/watch?v=9mIL0tIfZ_o) |
+[Introduction to Genomics and Galaxy](https://training.galaxyproject.org/training-material/topics/introduction/tutorials/galaxy-intro-strands/tutorial.html)| [Video](https://www.youtube.com/watch?v=P1mEWZ_tAgQ) |
+| [Genome annotation with Prokka](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/rna-seq-counts-to-genes/tutorial.html)| [Video](https://www.youtube.com/watch?v=B8pIQZPf21Y)|
+| [Somatic Variant Discovery from WES Data](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/rna-seq-genes-to-pathways/tutorial.html)| | NA|
 
 ## Useful resources 
 - [A gentle introduction to RNA-seq](https://www.youtube.com/watch?app=desktop&v=tlf6wYJrwKY)
