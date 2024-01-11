@@ -77,7 +77,7 @@ Welcome to the Bioinformatics Fundamentals Repository! This repository contains 
 ## Useful resources 
 - [A gentle introduction to RNA-seq](https://www.youtube.com/watch?app=desktop&v=tlf6wYJrwKY)
 - [Galaxy tool](https://github.com/galaxyproject/usegalaxy-tools)
-- [Algorithms for DNA Sequencing](https://www.python.org/about/gettingstarted/) 
+- [Algorithms for DNA Sequencing]([https://www.python.org/about/gettingstarted/](https://www.youtube.com/watch?v=hpb-mH-yjLc&list=PL2mpR0RYFQsBiCWVJSvVAO3OJ2t7DzoHA)) 
 
 ## :books: Recommend Books 
 - [Principles of Population Genetics 4th Edition](https://www.scribd.com/document/327383907/Principles-Population-Genetics)
