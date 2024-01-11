@@ -32,6 +32,7 @@ Welcome to the Bioinformatics Fundamentals Repository! This repository contains 
 
 
 ## Day 2: Variant analysis
+[Lecture 2: Theoretical slides](https://github.com/Sakhaa-Alsaedi/Bioinformatics-/blob/main/%20Day1_GH_Introduction%20to%20Bioinformatics_Sakhaa.pdf)
 
 |Tutorial| Link | Slides| Records |
 |:---: | :---:  |     :---:      | :---:|
@@ -41,6 +42,7 @@ Welcome to the Bioinformatics Fundamentals Repository! This repository contains 
 
 ## Day 3: Diagnosing human genetic disease 
 ### Application 
+[Lecture 3: Theoretical slides](https://github.com/Sakhaa-Alsaedi/Bioinformatics-/blob/main/%20Day1_GH_Introduction%20to%20Bioinformatics_Sakhaa.pdf)
 
 |Tutorial| Link | Time| 
 |:---: | :---:  |     :---:      | 
