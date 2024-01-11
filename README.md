@@ -44,10 +44,10 @@ Welcome to the Bioinformatics Fundamentals Repository! This repository contains 
 ### Application 
 [Lecture 3: Theoretical slides](https://github.com/Sakhaa-Alsaedi/Bioinformatics-/blob/main/%20Day1_GH_Introduction%20to%20Bioinformatics_Sakhaa.pdf)
 
-|Tutorial| Link | Time| 
-|:---: | :---:  |     :---:      | 
+|Tutorial| Link | Slides| Records |
+|:---: | :---:  |     :---:      | :---:|
 |Part 1| [Exome sequencing](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/exome-seq/tutorial.html)| 5 h|
-|Part 2| [Trio analysis](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/trio-analysis/tutorial.html)| 2 h|
+|Part 2| [Trio analysis](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/trio-analysis/tutorial.html)| 2 h| [Galaxy](https://www.youtube.com/watch?v=3OWXWOkJRqU)
 
 ## Day 4: Genome Assembly
 
