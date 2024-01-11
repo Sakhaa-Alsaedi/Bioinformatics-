@@ -13,6 +13,7 @@ Welcome to the Bioinformatics Fundamentals Repository! This repository contains 
 
 > Created by <br>
 > [Sakhaa Alsaedi](https://cemse.kaust.edu.sa/cbrc/people/person/sakhaa-alsaedi)<sup>1</sup> <br>
+> Ebtihal Hani 
 > King Abdullah University of Science and Technology (KAUST)<sup>1</sup>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -36,8 +37,8 @@ Welcome to the Bioinformatics Fundamentals Repository! This repository contains 
 
 |Tutorial| Link | Slides| Records | Lab|
 |:---: | :---:  |     :---:      | :---:| :---:|
-|Part 1| [Variant calling](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/dip/tutorial.html)|[Galaxy slides]|[Galaxy]| Soon|
-|Part 2| [Mapping-by-sequencing](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/mapping-by-sequencing/tutorial.html)|[Galaxy slides]|[Galaxy]| Soon|
+|Part 1| [Variant calling](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/dip/tutorial.html)|[Galaxy slides]|[Galaxy]| [Variant Calling](https://usegalaxy.org/u/ebtihal.hani/h/variant-calling)|
+|Part 2| [Mapping-by-sequencing](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/mapping-by-sequencing/tutorial.html)|[Galaxy slides]|[Galaxy]| [Mapping by Sequencing](https://usegalaxy.org/u/ebtihal.hani/h/mapping-by-sequencing)|
 
 
 ## Day 3: Diagnosing human genetic disease 
