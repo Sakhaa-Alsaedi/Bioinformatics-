@@ -63,9 +63,9 @@ Welcome to the Bioinformatics Fundamentals Repository! This repository contains 
 |Tutorial| Link | Lecture| 
 |:---: | :---:  |     :---:      | 
 |Part 1| [Introduction of Transcriptomics ](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/introduction/slides.html#1)| [Video](https://www.youtube.com/watch?v=qKkS_tztw_Q&t=3s)|
-|Part 2| [RNA-seq reads to counts](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/rna-seq-reads-to-counts/tutorial.html)| t|
-|Part 3| [RNA-seq counts to genes](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/rna-seq-counts-to-genes/tutorial.html)| t|
-|Part 4| [RNA-seq genes to pathways](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/rna-seq-genes-to-pathways/tutorial.html)| t|
+|Part 2| [RNA-seq reads to counts](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/rna-seq-reads-to-counts/tutorial.html)|[Video](https://www.youtube.com/watch?v=Ui0ROcJGiXU&t=17s)|
+|Part 3| [RNA-seq counts to genes](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/rna-seq-counts-to-genes/tutorial.html)|Video|
+|Part 4| [RNA-seq genes to pathways](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/rna-seq-genes-to-pathways/tutorial.html)|Video|
 
 ## Recommend tutorials 
 |Tutorial | Implementation| 
@@ -73,7 +73,7 @@ Welcome to the Bioinformatics Fundamentals Repository! This repository contains 
 [NGS data logistics](https://training.galaxyproject.org/training-material/topics/introduction/tutorials/galaxy-intro-ngs-data-managment/tutorial.html)| [Video](https://www.youtube.com/watch?v=9mIL0tIfZ_o) |
 [Introduction to Genomics and Galaxy](https://training.galaxyproject.org/training-material/topics/introduction/tutorials/galaxy-intro-strands/tutorial.html)| [Video](https://www.youtube.com/watch?v=P1mEWZ_tAgQ) |
 | [Genome annotation with Prokka](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/rna-seq-counts-to-genes/tutorial.html)| [Video](https://www.youtube.com/watch?v=B8pIQZPf21Y)|
-| [Somatic Variant Discovery from WES Data](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/rna-seq-genes-to-pathways/tutorial.html)| | NA|
+| [Somatic Variant Discovery from WES Data](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/rna-seq-genes-to-pathways/tutorial.html)| NA|
 
 ## Useful resources 
 - [A gentle introduction to RNA-seq](https://www.youtube.com/watch?app=desktop&v=tlf6wYJrwKY)
