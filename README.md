@@ -26,9 +26,9 @@ Welcome to the Bioinformatics Fundamentals Repository! This repository contains 
 
 |Tutorial| Link | Slides| Records |
 |:---: | :---:  |     :---:      | :---:|
-|Part 1| [Introduction of galaxy platform ](https://training.galaxyproject.org/training-material/topics/introduction/tutorials/galaxy-intro-peaks2genes/tutorial.html)|[Your First Galaxy Analysis](https://docs.google.com/presentation/d/1rOGp4o_Dc-QIHS4YT4HizdfXTVhJB1HwPPZkSDuMhig/edit#slide=id.gbc9627d000_0_346)| [Alternative record](https://www.youtube.com/watch?v=1UPCrQxGwcU&list=PLNFLKDpdM3B_3M7i8fQ3rH_sax6rmAsyz)|
-|Part 2| [Quality control](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html)| [QC](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/quality-control/slides.html#1)| [Galaxy](https://www.youtube.com/watch?v=QJRlX2hWDKM)
-|Part 3| [Reference mapping](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/mapping/tutorial.html) |[Mapping](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/mapping/slides.html#1)| [Galaxy](https://www.youtube.com/watch?v=1wm-62E2NkY&t=1s)|
+|Part 1| [Introduction of galaxy platform ](https://training.galaxyproject.org/training-material/topics/introduction/tutorials/galaxy-intro-peaks2genes/tutorial.html)|[Galaxy slides: Your First Galaxy Analysis](https://docs.google.com/presentation/d/1rOGp4o_Dc-QIHS4YT4HizdfXTVhJB1HwPPZkSDuMhig/edit#slide=id.gbc9627d000_0_346)| [Alternative record](https://www.youtube.com/watch?v=1UPCrQxGwcU&list=PLNFLKDpdM3B_3M7i8fQ3rH_sax6rmAsyz)|
+|Part 2| [Quality control](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html)| [Galaxy slides: QC](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/quality-control/slides.html#1)| [Galaxy](https://www.youtube.com/watch?v=QJRlX2hWDKM)
+|Part 3| [Reference mapping](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/mapping/tutorial.html) |[Galaxy slides: Mapping](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/mapping/slides.html#1)| [Galaxy](https://www.youtube.com/watch?v=1wm-62E2NkY&t=1s)|
 
 
 ## Day 2: Variant analysis
@@ -36,8 +36,8 @@ Welcome to the Bioinformatics Fundamentals Repository! This repository contains 
 
 |Tutorial| Link | Slides| Records |
 |:---: | :---:  |     :---:      | :---:|
-|Part 1| [Variant calling](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/dip/tutorial.html)|[VC]|[Galaxy]|
-|Part 2| [Mapping-by-sequencing](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/mapping-by-sequencing/tutorial.html)|[VC]|[Galaxy]|
+|Part 1| [Variant calling](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/dip/tutorial.html)|[Galaxy slides]|[Galaxy]|
+|Part 2| [Mapping-by-sequencing](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/mapping-by-sequencing/tutorial.html)|[Galaxy slides]|[Galaxy]|
 
 
 ## Day 3: Diagnosing human genetic disease 
@@ -46,8 +46,8 @@ Welcome to the Bioinformatics Fundamentals Repository! This repository contains 
 
 |Tutorial| Link | Slides| Records |
 |:---: | :---:  |     :---:      | :---:|
-|Part 1| [Exome sequencing](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/exome-seq/tutorial.html)| 5 h|
-|Part 2| [Trio analysis](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/trio-analysis/tutorial.html)| 2 h| [Galaxy](https://www.youtube.com/watch?v=3OWXWOkJRqU)
+|Part 1| [Exome sequencing](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/exome-seq/tutorial.html)| [Galaxy slides](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/introduction/slides.html#1)|
+|Part 2| [Trio analysis](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/trio-analysis/tutorial.html)| [Galaxy slides]| [Galaxy](https://www.youtube.com/watch?v=3OWXWOkJRqU)
 
 ## Day 4: Genome Assembly
 
