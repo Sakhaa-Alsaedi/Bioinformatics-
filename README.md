@@ -63,9 +63,9 @@ Welcome to the Bioinformatics Fundamentals Repository! This repository contains 
 |Tutorial| Link | Lecture| 
 |:---: | :---:  |     :---:      | 
 |Part 1| [Introduction of Transcriptomics ](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/introduction/slides.html#1)| | [Video](https://www.youtube.com/watch?v=qKkS_tztw_Q&t=3s)|
-|Part 2| [RNA-seq reads to counts](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/rna-seq-reads-to-counts/tutorial.html)| |
-|Part 3| [RNA-seq counts to genes](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/rna-seq-counts-to-genes/tutorial.html)| |
-|Part 4| [RNA-seq genes to pathways](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/rna-seq-genes-to-pathways/tutorial.html)| |
+|Part 2| [RNA-seq reads to counts](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/rna-seq-reads-to-counts/tutorial.html)| t|
+|Part 3| [RNA-seq counts to genes](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/rna-seq-counts-to-genes/tutorial.html)| t|
+|Part 4| [RNA-seq genes to pathways](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/rna-seq-genes-to-pathways/tutorial.html)| t|
 
 ## Recommend tutorials 
 |Tutorial | Implementation| 
