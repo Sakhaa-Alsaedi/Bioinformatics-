@@ -13,7 +13,7 @@ Welcome to the Bioinformatics Fundamentals Repository! This repository contains 
 
 > Created by <br>
 > [Sakhaa Alsaedi](https://cemse.kaust.edu.sa/cbrc/people/person/sakhaa-alsaedi)<sup>1</sup> <br>
-> Ebtihal Hani 
+> Ebtihal Hani <br>
 > King Abdullah University of Science and Technology (KAUST)<sup>1</sup>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
