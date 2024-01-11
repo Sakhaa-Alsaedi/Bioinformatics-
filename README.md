@@ -27,9 +27,9 @@ Welcome to the Bioinformatics Fundamentals Repository! This repository contains 
 
 |Tutorial| Link | Slides| Records | Lab|
 |:---: | :---:  |     :---:      | :---:| :---:|
-|Part 1| [Introduction of galaxy platform ](https://training.galaxyproject.org/training-material/topics/introduction/tutorials/galaxy-intro-peaks2genes/tutorial.html)|[Galaxy slides: Your First Galaxy Analysis](https://docs.google.com/presentation/d/1rOGp4o_Dc-QIHS4YT4HizdfXTVhJB1HwPPZkSDuMhig/edit#slide=id.gbc9627d000_0_346)| [Alternative record](https://www.youtube.com/watch?v=1UPCrQxGwcU&list=PLNFLKDpdM3B_3M7i8fQ3rH_sax6rmAsyz)| Soon|
-|Part 2| [Quality control](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html)| [Galaxy slides: QC](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/quality-control/slides.html#1)| [Galaxy](https://www.youtube.com/watch?v=QJRlX2hWDKM)| Soon|
-|Part 3| [Reference mapping](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/mapping/tutorial.html) |[Galaxy slides: Mapping](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/mapping/slides.html#1)| [Galaxy](https://www.youtube.com/watch?v=1wm-62E2NkY&t=1s)| Soon|
+|Part 1| [Introduction of galaxy platform ](https://training.galaxyproject.org/training-material/topics/introduction/tutorials/galaxy-intro-peaks2genes/tutorial.html)|[Galaxy slides: Your First Galaxy Analysis](https://docs.google.com/presentation/d/1rOGp4o_Dc-QIHS4YT4HizdfXTVhJB1HwPPZkSDuMhig/edit#slide=id.gbc9627d000_0_346)| [Alternative record](https://www.youtube.com/watch?v=1UPCrQxGwcU&list=PLNFLKDpdM3B_3M7i8fQ3rH_sax6rmAsyz)| [Part1](https://usegalaxy.org/u/ebtihal.hani/h/galaxy-introduction-part1) |
+|Part 2| [Quality control](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html)| [Galaxy slides: QC](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/quality-control/slides.html#1)| [Galaxy](https://www.youtube.com/watch?v=QJRlX2hWDKM)| [Part 2](https://usegalaxy.org/u/ebtihal.hani/h/galaxy-introduction-part2)|
+|Part 3| [Reference mapping](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/mapping/tutorial.html) |[Galaxy slides: Mapping](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/mapping/slides.html#1)| [Galaxy](https://www.youtube.com/watch?v=1wm-62E2NkY&t=1s)| [Part3](https://usegalaxy.org/u/ebtihal.hani/h/quality-control-part3)|
 
 
 ## Day 2: Variant analysis
@@ -38,7 +38,7 @@ Welcome to the Bioinformatics Fundamentals Repository! This repository contains 
 |Tutorial| Link | Slides| Records | Lab|
 |:---: | :---:  |     :---:      | :---:| :---:|
 |Part 1| [Variant calling](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/dip/tutorial.html)|[Galaxy slides]|[Galaxy]| [Variant Calling](https://usegalaxy.org/u/ebtihal.hani/h/variant-calling)|
-|Part 2| [Mapping-by-sequencing](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/mapping-by-sequencing/tutorial.html)|[Galaxy slides]|[Galaxy]| [Mapping by Sequencing](https://usegalaxy.org/u/ebtihal.hani/h/mapping-by-sequencing)|
+|Part 2| [Mapping-by-sequencing](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/mapping-by-sequencing/tutorial.html)|[Galaxy slides]|[Galaxy]| [Mapping by Sequencing](https://usegalaxy.org/u/ebtihal.hani/h/mapping-by-sequencing)| [Part 1](https://usegalaxy.org/u/ebtihal.hani/h/quality-control-part1), 
 
 
 ## Day 3: Diagnosing human genetic disease 
@@ -60,9 +60,9 @@ Welcome to the Bioinformatics Fundamentals Repository! This repository contains 
 
 ## Day 5: Transcriptomics 
 
-|Tutorial| Link | Time| 
+|Tutorial| Link | Lecture| 
 |:---: | :---:  |     :---:      | 
-|Part 1| [Introduction of Transcriptomics ](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/introduction/slides.html#1)| |
+|Part 1| [Introduction of Transcriptomics ](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/introduction/slides.html#1)| | [Video](https://www.youtube.com/watch?v=qKkS_tztw_Q&t=3s)|
 |Part 2| [RNA-seq reads to counts](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/rna-seq-reads-to-counts/tutorial.html)| |
 |Part 3| [RNA-seq counts to genes](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/rna-seq-counts-to-genes/tutorial.html)| |
 |Part 4| [RNA-seq genes to pathways](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/rna-seq-genes-to-pathways/tutorial.html)| |
