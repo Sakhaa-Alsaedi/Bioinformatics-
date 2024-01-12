@@ -43,20 +43,21 @@ Welcome to the Bioinformatics Fundamentals Repository! This repository contains 
 
 ## Day 3: Diagnosing human genetic disease 
 ### Application 
-[Lecture 3: Theoretical slides](https://github.com/Sakhaa-Alsaedi/Bioinformatics-/blob/main/%20Day1_GH_Introduction%20to%20Bioinformatics_Sakhaa.pdf)
+[Lecture 3: Theoretical slides](https://github.com/Sakhaa-Alsaedi/Bioinformatics-/blob/main/%20Day3_Introduction%20to%20Bioinformatics%20.pdf)
 
 |Tutorial| Link | Slides| Records | Lab|
 |:---: | :---:  |     :---:      | :---:| :---:|
 |Part 1| [Exome sequencing](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/exome-seq/tutorial.html)| [Galaxy slides](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/introduction/slides.html#1)|[Alternative record](https://www.youtube.com/watch?v=lpzBwR1P0h0)| [Exom seq](https://usegalaxy.org/u/ebtihal.hani/h/exome-sequencing)|
-|Part 2| [Trio analysis](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/trio-analysis/tutorial.html)| [videos](https://www.youtube.com/watch?v=3OWXWOkJRqU&t=116s)| [Galaxy](https://www.youtube.com/watch?v=3OWXWOkJRqU)| soon|
+|Part 2| [Trio analysis](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/trio-analysis/tutorial.html)| [videos](https://www.youtube.com/watch?v=3OWXWOkJRqU&t=116s)| [Galaxy](https://www.youtube.com/watch?v=3OWXWOkJRqU)| [Lab](https://usegalaxy.org/u/ebtihal.hani/h/trio-analysis)|
 
 ## Day 4: Genome Assembly
+[Lecture 4: Theoretical slides](https://github.com/Sakhaa-Alsaedi/Bioinformatics-/blob/main/%20Day4_Introduction%20to%20Bioinformatics%20.pdf)
 
-|Tutorial| Link | Time| 
-|:---: | :---:  |     :---:      | 
-|Part 1| [General introduction](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/general-introduction/tutorial.html)| 30 min|
-|Part 2| [Debruijn graph assembly](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/debruijn-graph-assembly/slides-plain.html)| 2 h|
-|Part 3| [Assembly with preprocessing](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/assembly-with-preprocessing/tutorial.html)| 4 h|
+|Tutorial| Link | 
+|:---: | :---:  | 
+|Part 1| [General introduction](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/general-introduction/tutorial.html)|
+|Part 2| [Debruijn graph assembly](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/debruijn-graph-assembly/slides-plain.html)|
+|Part 3| [Assembly with preprocessing](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/assembly-with-preprocessing/tutorial.html)|
 
 ## Day 5: Transcriptomics 
 
