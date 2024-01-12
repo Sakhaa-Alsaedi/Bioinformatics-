@@ -53,11 +53,11 @@ Welcome to the Bioinformatics Fundamentals Repository! This repository contains 
 ## Day 4: Genome Assembly
 [Lecture 4: Theoretical slides](https://github.com/Sakhaa-Alsaedi/Bioinformatics-/blob/main/%20Day4_Introduction%20to%20Bioinformatics%20.pdf)
 
-|Tutorial| Link | 
-|:---: | :---:  | 
-|Part 1| [General introduction](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/general-introduction/tutorial.html)|
-|Part 2| [Debruijn graph assembly](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/debruijn-graph-assembly/slides-plain.html)|
-|Part 3| [Assembly with preprocessing](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/assembly-with-preprocessing/tutorial.html)|
+|Tutorial| Link | Lab|
+|:---: | :---:  | :---: |
+|Part 1| [General introduction](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/general-introduction/tutorial.html)|[Lab](https://usegalaxy.eu/u/ebtihal.hani/h/genome-assembly-intro)|
+|Part 2| [Debruijn graph assembly](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/debruijn-graph-assembly/slides-plain.html)| Lab|
+|Part 3| [Assembly with preprocessing](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/assembly-with-preprocessing/tutorial.html)| Lab|
 
 ## Day 5: Transcriptomics 
 
